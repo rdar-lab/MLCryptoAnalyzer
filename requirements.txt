@@ -1,0 +1,5 @@
+numpy
+pycryptodome
+keras
+tensorflow
+termplot
